@@ -1,4 +1,4 @@
-# Cloud CLI Agent
+# Cloud Partitioner Agent
 
 This project is an intelligent assistant designed to simplify cloud infrastructure management by translating natural language into executable command-line interface (CLI) commands.
 
@@ -10,9 +10,9 @@ In the current IT landscape, organizations invest significant resources to train
 
 ***
 
-## Our Solution 💡
+## Solution 💡
 
-The Cloud CLI Agent is an intelligent assistant that bridges this gap. It empowers users to manage cloud infrastructure by translating simple, natural language prompts into accurate, executable `gcloud` commands.
+The Cloud Partitioner Agent is an intelligent assistant that bridges this gap. It empowers users to manage cloud infrastructure by translating simple, natural language prompts into accurate, executable `gcloud` commands.
 
 * **Lowers the Technical Barrier**: It allows team members without deep CLI expertise to perform cloud operations confidently.
 * **Increases Efficiency**: It automates the process of finding and constructing complex commands, saving time and reducing human error.
